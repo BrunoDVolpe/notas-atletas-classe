@@ -18,7 +18,7 @@ Criar uma função capaz de receber uma matriz de objetos contendo o nome do atl
 
 ## Solução do Problema:
 
-- Desenvolvimento da classe CompeticaoGinasticaArtistica(atletas).
+- Variação da solução original. A proposta era através de uma função, por isso criei uma nova versão, desta vez resolvendo através do desenvolvimento da classe CompeticaoGinasticaArtistica(atletas).
 
 ### Entrada da Classe: argumento
 
